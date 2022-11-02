@@ -1,0 +1,23 @@
+{
+  "name": "color-themer",
+  "version": "1.0.0",
+  "description": "a JS library to generate color themes for websites",
+  "main": "color-themer.js",
+  "dependencies": {
+    "jest": "^29.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klalicki/color-themer.git"
+  },
+  "author": "kristoff lalicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klalicki/color-themer/issues"
+  },
+  "homepage": "https://github.com/klalicki/color-themer#readme"
+}

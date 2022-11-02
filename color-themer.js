@@ -1,3 +1,5 @@
-const colorThemer = {
-  generate: () => {},
+const generate = () => {
+  return "hello";
 };
+
+module.exports = generate;
