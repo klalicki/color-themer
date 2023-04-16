@@ -4,9 +4,9 @@
   "description": "a JS library to generate color themes for websites",
   "main": "color-themer.js",
   "dependencies": {
+    "colord": "^2.9.3",
     "jest": "^29.2.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "jest"
   },
